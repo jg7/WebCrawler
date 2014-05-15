@@ -4,7 +4,9 @@ WebCrawler
 This is a web crawler I implemented in python!
 
 Usage:
+
 1.Download and install Python 2.6.
+
 2.Run:
       
       python webcrawler.py seed_url keyword
